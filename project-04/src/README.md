@@ -1,4 +1,4 @@
-# E1-C4 Challenge: 0-RTT Replay
+## Challenge: 0-RTT Replay
 
 ## Scenario
 
