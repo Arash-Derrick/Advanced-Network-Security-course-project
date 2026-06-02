@@ -27,12 +27,3 @@ Each subproject is organized in its own folder and includes:
 | [project-09](./project-09/README.md) | Coming Soon | Placeholder for the next subproject. |
 | [project-10](./project-10/README.md) | Coming Soon | Placeholder for the final subproject. |
 
-## Notes
-
-- This repository is being actively expanded.
-- Additional projects will be added progressively.
-- The goal is to present a clean, professional portfolio suitable for academic evaluation and internship applications.
-
-## Git Hygiene
-
-A global `.gitignore` file is used to exclude temporary files, cache directories, local environment artifacts, and challenge-specific outputs such as `flag.txt`.
