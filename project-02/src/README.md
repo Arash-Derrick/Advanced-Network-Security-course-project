@@ -1,4 +1,4 @@
-# E1-C2 Challenge: The Ground Truth Detective Hard Mode
+# Challenge: The Ground Truth Detective Hard Mode
 
 ## Scenario
 

@@ -1,4 +1,4 @@
-# C2 (The Ground Truth Detective)
+# The Ground Truth Detective Hard Mode
 
 This project is a digital forensics and threat-hunting exercise focused on reconstructing the **ground truth** of a suspicious incident by correlating multiple telemetry sources across the network and endpoint stack.
 
