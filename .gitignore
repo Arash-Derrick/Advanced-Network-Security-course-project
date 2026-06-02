@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Challenge outputs and flags (IMPORTANT)
+flag.txt
+*.log
+*.tmp
+*.out
+*/output/
+*/results/
+
+# Data files (Optional: if you don't want to push huge raw data)
+# *.csv
+# *.pcap
