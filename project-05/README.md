@@ -1,4 +1,4 @@
-# challange 5: Silent Jammer (Selective Jamming)
+# Challange: Silent Jammer (Selective Jamming)
 
 ## Overview
 This project focuses on a **selective jamming** challenge in a wireless communication setting.  
