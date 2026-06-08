@@ -52,8 +52,9 @@ The workflow follows a structured correlation process:
 
 ## Repository Structure
 ```text
-.
-├── src/          # Original challenge files
-├── scripts/      # Solution scripts and analysis helpers
-└── README.md
+project-03/
+├── README.md
+├── src/
+└── scripts/
+	└── solve_beacon.py
 ```
